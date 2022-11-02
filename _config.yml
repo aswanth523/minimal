@@ -1,6 +1,12 @@
-title: Aswanth Kumar Vusirikala
+title: <p align="center"> Aswanth Kumar Vusirikala </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description: 
+  <p align="center">
+  <a href="https://www.linkedin.com/in/aswanth-kumar-vusirikala-9b7938163">LinkedIn</a>
+  
+<br>
+I'm training on Machine Learning and Artificial intelligence also working as a QA automation engineer.
+<br>
+</p>
 theme: jekyll-theme-minimal
